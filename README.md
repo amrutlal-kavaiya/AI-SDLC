@@ -1,4 +1,4 @@
-# AgileBudhi
+# AgileBudhi -AI-Powered Excellence in Every Development Phase
 
 AgileBudhi is a cutting-edge web application that combines the power of React, FastAPI, and OpenAI's language models to provide AI-driven project management and digital transformation solutions.
 
@@ -185,3 +185,6 @@ We welcome contributions to AgileBudhi! Please read our contributing guidelines 
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+
+
