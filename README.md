@@ -21,7 +21,7 @@ AgileBudhi is a cutting-edge web application that combines the power of React, F
 ## Overview
 
 AgileBudhi is designed to empower organizations in their digital transformation journey by leveraging AI-driven solutions and agile methodologies. Our platform offers a seamless blend of project management tools, AI insights, and cloud services to optimize workflows and drive innovation.
-
+![](/Images/Technical_Dialogram.png)
 ## Features
 
 - AI-Powered Project Management
